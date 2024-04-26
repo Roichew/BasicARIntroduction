@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v6.2.15">
+        <ModelTarget name="Toyota2JZ" targetId="038804f170114912b4efa79d96eac1a5" version="13.0" toolVersion="v6.2.15" bbox="-0.076743 -0.036711 -0.076475 0.079506 0.034887 0.046195" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="Toyota2JZ" assemblyId="edcc4802bee04980a1324b96e7c92942">
+        <Part name="Toyota2JZ" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
