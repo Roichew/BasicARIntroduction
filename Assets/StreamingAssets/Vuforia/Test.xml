@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="keyboard" size="6.000000 2.635514" />
+    <ImageTarget name="car" size="6.000000 3.999574" />
   </Tracking>
 </QCARConfig>
